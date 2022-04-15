@@ -1,0 +1,15 @@
+# Copy this file, rename it to .env and fill/change the values.
+# Example token:
+# BOT_TOKEN=157963248:AwwecwWEgTGD85wewert23fgttytWDEgT5R
+BOT_TOKEN=5266374029:AAGYj7PIh25Y0wVjb2o6ygMuAp76hrQnyVc
+# Example ID:
+# OWNER_ID=9284284
+OWNER_ID=1385322673
+# Change to True or False
+DEBUG=True
+# POSTGRESQL Credentials
+PG_USER=
+PG_PASS=
+# Postgres Database name
+PG_DTBS=
+PG_HOST=
